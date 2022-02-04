@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @honeypotfly. Im a Infrastructure and Security Engineer.
 - 👀 I’m interested in DevOps and blue team application security.
-- 🌱 I’m currently studying for the Comptia Security+ certification.
+- 🌱 I’m currently studying and active on [TryHackMe!](https://tryhackme.com/p/honeypotfly)
 - 💞️ I’m looking to collaborate on cloud & container security and fleet management
 - 📫 Reach me at honeypotfly@protonmail.com
 
